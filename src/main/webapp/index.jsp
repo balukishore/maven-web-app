@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='pink'> Welcome to Ashok IT{Jenkins & Docker & Ki8'S} - Software Training Institute  <font></h1>
+<h1><font color='black'> Welcome to Ashok IT{Jenkins & Docker & Ki8'S} - Software Training Institute  <font></h1>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
